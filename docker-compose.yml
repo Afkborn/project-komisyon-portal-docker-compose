@@ -4,11 +4,11 @@ services:
   frontend:
     build: ./project-komisyon-portal
     ports:
-      - "2626:2626"
+      - "2626:2626" # 2626 kullanma sebebimiz adalet bakanlığı tarafından host makinede 80 portunun yasaklanmış olması
     depends_on:
-      - backend
+      - backend # Frontend servisinin çalışabilmesi için backend servisinin çalışıyor olması gerekiyor
     environment:
-      REACT_APP_BACKEND_URL: http://backend:8080/api
+      REACT_APP_BACKEND_URL: http://backend:8080/api # Backend servisinin adresini belirtiyoruz
 
   backend:
     build: ./project-komisyon-portal-backend
@@ -21,7 +21,7 @@ services:
     depends_on:
       - mongo
     volumes:
-      - backend-logs:/app/logs # Logların saklanacağı volume'u ekledik
+      - backend-logs:/app/logs
 
   mongo:
     image: mongo
@@ -30,6 +30,18 @@ services:
     volumes:
       - mongo-data:/data/db
 
+  backup:
+    image: alpine
+    volumes:
+      - mongo-backup:/backup
+      - ./backup.sh:/app/backup.sh # Yedekleme script'ini mount ediyoruz
+    entrypoint: >
+      /bin/sh -c "apk add --no-cache mongodb-tools && 
+      while true; do /app/backup.sh; sleep 86400; done"
+    depends_on:
+      - mongo
+
 volumes:
   mongo-data:
   backend-logs:
+  mongo-backup:
