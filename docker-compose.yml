@@ -1,0 +1,35 @@
+version: '3'
+
+services:
+  frontend:
+    build: ./project-komisyon-portal
+    ports:
+      - "2626:2626"
+    depends_on:
+      - backend
+    environment:
+      REACT_APP_BACKEND_URL: http://backend:8080/api
+
+  backend:
+    build: ./project-komisyon-portal-backend
+    ports:
+      - "8080:8080"
+    environment:
+      MONGO_DB_CONNECTION: mongodb://mongo:27017/project-komisyon-portal
+      PORT: 8080
+      SALT_CODE: "ab276325"
+    depends_on:
+      - mongo
+    volumes:
+      - backend-logs:/app/logs # Logların saklanacağı volume'u ekledik
+
+  mongo:
+    image: mongo
+    ports:
+      - "26026:27017"
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:
+  backend-logs:
