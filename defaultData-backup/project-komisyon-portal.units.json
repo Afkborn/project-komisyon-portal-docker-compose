@@ -1,0 +1,1360 @@
+[{
+  "_id": {
+    "$oid": "66e02efe125c3b129ef064c9"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9001,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 5,
+  "name": "1. Ağır Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-10T11:35:26.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e02f02125c3b129ef064ce"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9001,
+  "delegationType": "1",
+  "status": true,
+  "series": 2,
+  "minClertCount": 5,
+  "name": "2. Ağır Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-10T11:35:30.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e035d85eb25cd8ba6af2a1"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9001,
+  "delegationType": "1",
+  "status": true,
+  "series": 3,
+  "minClertCount": 5,
+  "name": "3. Ağır Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-10T12:04:40.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e035de5eb25cd8ba6af2a6"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9001,
+  "delegationType": "1",
+  "status": true,
+  "series": 4,
+  "minClertCount": 5,
+  "name": "4. Ağır Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-10T12:04:46.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e035e25eb25cd8ba6af2ab"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9001,
+  "delegationType": "1",
+  "status": true,
+  "series": 5,
+  "minClertCount": 5,
+  "name": "5. Ağır Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-10T12:04:50.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e035e55eb25cd8ba6af2b0"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9001,
+  "delegationType": "1",
+  "status": true,
+  "series": 6,
+  "minClertCount": 5,
+  "name": "6. Ağır Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-10T12:04:53.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e035e85eb25cd8ba6af2b5"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9001,
+  "delegationType": "1",
+  "status": true,
+  "series": 7,
+  "minClertCount": 5,
+  "name": "7. Ağır Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-10T12:04:56.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e0364f5eb25cd8ba6af312"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "Ceza Mahkemeleri Ön Bürosu",
+  "createdDate": {
+    "$date": "2024-09-10T12:06:39.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e160a75eb25cd8ba6af4ed"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 17,
+  "minClertCount": 3,
+  "name": "17. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T09:19:35.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e179c35eb25cd8ba6af858"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9002,
+  "delegationType": "1",
+  "status": true,
+  "series": 8,
+  "minClertCount": 3,
+  "name": "8. Aile Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:06:43.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17a0c5eb25cd8ba6af86b"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 3,
+  "name": "1. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:07:56.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17a115eb25cd8ba6af870"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 2,
+  "minClertCount": 3,
+  "name": "2. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:08:01.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17a575eb25cd8ba6af883"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 3,
+  "minClertCount": 3,
+  "name": "3. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:09:11.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17a605eb25cd8ba6af888"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 4,
+  "minClertCount": 3,
+  "name": "4. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:09:20.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17a645eb25cd8ba6af88d"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 5,
+  "minClertCount": 3,
+  "name": "5. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:09:24.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17a685eb25cd8ba6af892"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 6,
+  "minClertCount": 3,
+  "name": "6. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:09:28.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17aa35eb25cd8ba6af908"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 7,
+  "minClertCount": 3,
+  "name": "7. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:10:27.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17aa75eb25cd8ba6af90d"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 8,
+  "minClertCount": 3,
+  "name": "8. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:10:31.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17aaa5eb25cd8ba6af912"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 9,
+  "minClertCount": 3,
+  "name": "9. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:10:34.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17aac5eb25cd8ba6af917"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 10,
+  "minClertCount": 3,
+  "name": "10. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:10:36.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17aaf5eb25cd8ba6af91c"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 11,
+  "minClertCount": 3,
+  "name": "11. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:10:39.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17ab25eb25cd8ba6af921"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 12,
+  "minClertCount": 3,
+  "name": "12. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:10:42.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17ab65eb25cd8ba6af926"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 13,
+  "minClertCount": 3,
+  "name": "13. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:10:46.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17aba5eb25cd8ba6af92b"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 14,
+  "minClertCount": 3,
+  "name": "14. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:10:50.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17abe5eb25cd8ba6af930"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 15,
+  "minClertCount": 3,
+  "name": "15. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:10:54.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17ac25eb25cd8ba6af937"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9003,
+  "delegationType": "1",
+  "status": true,
+  "series": 16,
+  "minClertCount": 3,
+  "name": "16. Asliye Ceza Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-11T11:10:58.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e413e37a42a522bea64ee3"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9005,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 3,
+  "name": "1. Çocuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T10:28:51.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e413ed7a42a522bea64ee8"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9005,
+  "delegationType": "1",
+  "status": true,
+  "series": 2,
+  "minClertCount": 3,
+  "name": "2. Çocuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T10:29:01.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e413fe7a42a522bea64eed"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9007,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 3,
+  "name": "1. İnfaz Hâkimliği",
+  "createdDate": {
+    "$date": "2024-09-13T10:29:18.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e425c6de57c48c4b617fab"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9007,
+  "delegationType": "1",
+  "status": true,
+  "series": 2,
+  "minClertCount": 3,
+  "name": "2. İnfaz Hâkimliği",
+  "createdDate": {
+    "$date": "2024-09-13T11:45:10.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e425dfde57c48c4b617fba"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9011,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 3,
+  "name": "1. Sulh Ceza Hâkimliği",
+  "createdDate": {
+    "$date": "2024-09-13T11:45:35.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e425e5de57c48c4b617fbf"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9011,
+  "delegationType": "1",
+  "status": true,
+  "series": 2,
+  "minClertCount": 3,
+  "name": "2. Sulh Ceza Hâkimliği",
+  "createdDate": {
+    "$date": "2024-09-13T11:45:41.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e425eade57c48c4b617fc4"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9011,
+  "delegationType": "1",
+  "status": true,
+  "series": 3,
+  "minClertCount": 3,
+  "name": "3. Sulh Ceza Hâkimliği",
+  "createdDate": {
+    "$date": "2024-09-13T11:45:46.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e425efde57c48c4b617fc9"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9011,
+  "delegationType": "1",
+  "status": true,
+  "series": 4,
+  "minClertCount": 3,
+  "name": "4. Sulh Ceza Hâkimliği",
+  "createdDate": {
+    "$date": "2024-09-13T11:45:51.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42603de57c48c4b617fce"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9006,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 3,
+  "name": "1. İcra Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:46:11.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42606de57c48c4b617fd3"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9006,
+  "delegationType": "1",
+  "status": true,
+  "series": 2,
+  "minClertCount": 3,
+  "name": "2. İcra Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:46:14.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42609de57c48c4b617fd8"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9006,
+  "delegationType": "1",
+  "status": true,
+  "series": 3,
+  "minClertCount": 3,
+  "name": "3. İcra Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:46:17.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4260cde57c48c4b617fdd"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9006,
+  "delegationType": "1",
+  "status": true,
+  "series": 4,
+  "minClertCount": 3,
+  "name": "4. İcra Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:46:20.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42617de57c48c4b617fe2"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9002,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 3,
+  "name": "1. Aile Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:46:31.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4261cde57c48c4b617fe7"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9002,
+  "delegationType": "1",
+  "status": true,
+  "series": 2,
+  "minClertCount": 3,
+  "name": "2. Aile Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:46:36.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4261fde57c48c4b617fec"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9002,
+  "delegationType": "1",
+  "status": true,
+  "series": 3,
+  "minClertCount": 3,
+  "name": "3. Aile Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:46:39.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42622de57c48c4b617ff1"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9002,
+  "delegationType": "1",
+  "status": true,
+  "series": 4,
+  "minClertCount": 3,
+  "name": "4. Aile Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:46:42.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42625de57c48c4b617ff6"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9002,
+  "delegationType": "1",
+  "status": true,
+  "series": 5,
+  "minClertCount": 3,
+  "name": "5. Aile Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:46:45.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42628de57c48c4b617ffb"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9002,
+  "delegationType": "1",
+  "status": true,
+  "series": 6,
+  "minClertCount": 3,
+  "name": "6. Aile Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:46:48.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4262ade57c48c4b618000"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9002,
+  "delegationType": "1",
+  "status": true,
+  "series": 7,
+  "minClertCount": 3,
+  "name": "7. Aile Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:46:50.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42667de57c48c4b618005"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9004,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 3,
+  "name": "1. Asliye Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:47:51.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4266ade57c48c4b61800a"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9004,
+  "delegationType": "1",
+  "status": true,
+  "series": 2,
+  "minClertCount": 3,
+  "name": "2. Asliye Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:47:54.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4266ede57c48c4b61800f"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9004,
+  "delegationType": "1",
+  "status": true,
+  "series": 3,
+  "minClertCount": 3,
+  "name": "3. Asliye Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:47:58.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42671de57c48c4b618014"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9004,
+  "delegationType": "1",
+  "status": true,
+  "series": 4,
+  "minClertCount": 3,
+  "name": "4. Asliye Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:48:01.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42674de57c48c4b618019"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9004,
+  "delegationType": "1",
+  "status": true,
+  "series": 5,
+  "minClertCount": 3,
+  "name": "5. Asliye Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:48:04.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42677de57c48c4b61801e"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9004,
+  "delegationType": "1",
+  "status": true,
+  "series": 6,
+  "minClertCount": 3,
+  "name": "6. Asliye Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:48:07.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4267ade57c48c4b618023"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9004,
+  "delegationType": "1",
+  "status": true,
+  "series": 7,
+  "minClertCount": 3,
+  "name": "7. Asliye Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:48:10.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4268fde57c48c4b618028"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9009,
+  "delegationType": "1/2",
+  "status": true,
+  "series": 1,
+  "minClertCount": 6,
+  "name": "1. İş Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:48:31.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42692de57c48c4b61802d"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9009,
+  "delegationType": "1/2",
+  "status": true,
+  "series": 2,
+  "minClertCount": 6,
+  "name": "2. İş Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:48:34.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e426b1de57c48c4b61803e"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9009,
+  "delegationType": "1",
+  "status": true,
+  "series": 3,
+  "minClertCount": 3,
+  "name": "3. İş Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:49:05.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e426b4de57c48c4b618043"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9009,
+  "delegationType": "1",
+  "status": true,
+  "series": 4,
+  "minClertCount": 3,
+  "name": "4. İş Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:49:08.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e426bcde57c48c4b618048"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9009,
+  "delegationType": "1",
+  "status": true,
+  "series": 5,
+  "minClertCount": 3,
+  "name": "5. İş Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:49:16.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e426bfde57c48c4b61804d"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9009,
+  "delegationType": "1",
+  "status": true,
+  "series": 6,
+  "minClertCount": 3,
+  "name": "6. İş Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:49:19.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e426ccde57c48c4b618052"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9012,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 3,
+  "name": "1. Sulh Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:49:32.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e426cfde57c48c4b618057"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9012,
+  "delegationType": "1",
+  "status": true,
+  "series": 2,
+  "minClertCount": 3,
+  "name": "2. Sulh Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:49:35.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e426d1de57c48c4b61805c"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9012,
+  "delegationType": "1",
+  "status": true,
+  "series": 3,
+  "minClertCount": 3,
+  "name": "3. Sulh Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:49:37.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e426d4de57c48c4b618061"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9012,
+  "delegationType": "1",
+  "status": true,
+  "series": 4,
+  "minClertCount": 3,
+  "name": "4. Sulh Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:49:40.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e426d7de57c48c4b618066"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9012,
+  "delegationType": "1",
+  "status": true,
+  "series": 5,
+  "minClertCount": 3,
+  "name": "5. Sulh Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:49:43.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e426dbde57c48c4b61806b"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9012,
+  "delegationType": "1",
+  "status": true,
+  "series": 6,
+  "minClertCount": 3,
+  "name": "6. Sulh Hukuk Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T11:49:47.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4281dde57c48c4b618078"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "Hukuk Mahkemeleri Ön Bürosu",
+  "createdDate": {
+    "$date": "2024-09-13T11:55:09.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42830de57c48c4b618081"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "Arabuluculuk Bürosu",
+  "createdDate": {
+    "$date": "2024-09-13T11:55:28.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4283bde57c48c4b618086"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "Sulh Hukuk Mahkemeleri Satış Memurluğu",
+  "createdDate": {
+    "$date": "2024-09-13T11:55:39.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42856de57c48c4b61808b"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "Adlî Yargı İlk Derece Mahkemesi Adalet Komisyonu",
+  "createdDate": {
+    "$date": "2024-09-13T11:56:06.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e430d0e37d3f9adf2b3329"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "Adliye",
+  "createdDate": {
+    "$date": "2024-09-13T12:32:16.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e430fbe37d3f9adf2b332e"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "1. İcra Dairesi",
+  "createdDate": {
+    "$date": "2024-09-13T12:32:59.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e430ffe37d3f9adf2b3333"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "2. İcra Dairesi",
+  "createdDate": {
+    "$date": "2024-09-13T12:33:03.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e43105e37d3f9adf2b3338"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "3. İcra Dairesi",
+  "createdDate": {
+    "$date": "2024-09-13T12:33:09.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e43109e37d3f9adf2b333d"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "4. İcra Dairesi",
+  "createdDate": {
+    "$date": "2024-09-13T12:33:13.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4310ce37d3f9adf2b3342"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "5. İcra Dairesi",
+  "createdDate": {
+    "$date": "2024-09-13T12:33:16.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e43110e37d3f9adf2b3347"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "6. İcra Dairesi",
+  "createdDate": {
+    "$date": "2024-09-13T12:33:20.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e43113e37d3f9adf2b334c"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "7. İcra Dairesi",
+  "createdDate": {
+    "$date": "2024-09-13T12:33:23.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e43117e37d3f9adf2b3351"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "8. İcra Dairesi",
+  "createdDate": {
+    "$date": "2024-09-13T12:33:27.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e43140e37d3f9adf2b3356"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "İcra Tevzi Bürosu",
+  "createdDate": {
+    "$date": "2024-09-13T12:34:08.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e43169e37d3f9adf2b335b"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "Mahkemeler Veznesi",
+  "createdDate": {
+    "$date": "2024-09-13T12:34:49.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e43294e37d3f9adf2b387c"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9016,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "Cumhuriyet Başsavcılığı",
+  "createdDate": {
+    "$date": "2024-09-13T12:39:48.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e432fce37d3f9adf2b4331"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "Tarama Merkezi",
+  "createdDate": {
+    "$date": "2024-09-13T12:41:32.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e43325e37d3f9adf2b4336"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9017,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 1,
+  "name": "Hukuk Mahkemeleri Tevzi Bürosu",
+  "createdDate": {
+    "$date": "2024-09-13T12:42:13.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e433f6e37d3f9adf2b435f"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9013,
+  "delegationType": "1/2",
+  "status": true,
+  "series": 1,
+  "minClertCount": 6,
+  "name": "Tüketici Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T12:45:42.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e433fee37d3f9adf2b4364"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9014,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 10,
+  "name": "Asliye Ticaret Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T12:45:50.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4398f4b4892220a60d29d"
+  },
+  "institutionID": 1,
+  "unitTypeID": 9030,
+  "delegationType": "1",
+  "status": true,
+  "series": 1,
+  "minClertCount": 3,
+  "name": "Kadastro Mahkemesi",
+  "createdDate": {
+    "$date": "2024-09-13T13:09:35.695Z"
+  },
+  "__v": 0
+}]

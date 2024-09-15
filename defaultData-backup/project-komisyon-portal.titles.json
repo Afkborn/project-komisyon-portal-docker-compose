@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "66e69f90f335532a1a2327ba"
+  },
+  "name": "Başkan",
+  "kind": "baskan",
+  "deletable": false,
+  "oncelikSirasi": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e69f90f335532a1a2327c4"
+  },
+  "name": "Hakim",
+  "kind": "hakim",
+  "deletable": false,
+  "oncelikSirasi": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e69f90f335532a1a2327be"
+  },
+  "name": "Yazı İşleri Müdürü",
+  "kind": "yaziislerimudürü",
+  "deletable": false,
+  "oncelikSirasi": 13,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e69f90f335532a1a2327bc"
+  },
+  "name": "Mübaşir",
+  "kind": "mubasir",
+  "deletable": false,
+  "oncelikSirasi": 20,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e69f90f335532a1a2327c2"
+  },
+  "name": "Üye Hakim",
+  "kind": "uyehakim",
+  "deletable": false,
+  "oncelikSirasi": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e69f90f335532a1a2327b8"
+  },
+  "name": "Zabit Katibi",
+  "kind": "zabitkatibi",
+  "deletable": false,
+  "oncelikSirasi": 15,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e6a027849f24be896ecb43"
+  },
+  "name": "Zabit Katibi (657/4B)",
+  "kind": "zabitkatibi",
+  "deletable": false,
+  "oncelikSirasi": 15,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e6a027849f24be896ecb45"
+  },
+  "name": "Mübaşir (657/4B)",
+  "kind": "mubasir",
+  "deletable": false,
+  "oncelikSirasi": 20,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17b7a5eb25cd8ba6af9bd"
+  },
+  "name": "Memur",
+  "kind": "memur",
+  "deletable": true,
+  "oncelikSirasi": 17,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17bcf5eb25cd8ba6afa07"
+  },
+  "name": "Memur (Ş)",
+  "kind": "memur(s)",
+  "deletable": true,
+  "oncelikSirasi": 17,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17bd85eb25cd8ba6afa0c"
+  },
+  "name": "Hizmetli",
+  "kind": "hizmetli",
+  "deletable": true,
+  "oncelikSirasi": 18,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17be15eb25cd8ba6afa11"
+  },
+  "name": "Hizmetli (Ş)",
+  "kind": "hizmetli(s)",
+  "deletable": true,
+  "oncelikSirasi": 18,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17bef5eb25cd8ba6afa16"
+  },
+  "name": "Sürekli İşçi",
+  "kind": "surekliisci",
+  "deletable": true,
+  "oncelikSirasi": 19,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17c055eb25cd8ba6afa21"
+  },
+  "name": "Üye Hâkim",
+  "kind": "uyehakim",
+  "deletable": false,
+  "oncelikSirasi": 13,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17c0a5eb25cd8ba6afa26"
+  },
+  "name": "Hâkim",
+  "kind": "hakim",
+  "deletable": false,
+  "oncelikSirasi": 12,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17c1a5eb25cd8ba6afa30"
+  },
+  "name": "Adalet Komisyonu Başkanı",
+  "kind": "adaletkomisyonubaskani",
+  "deletable": true,
+  "oncelikSirasi": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17c8b5eb25cd8ba6afa40"
+  },
+  "name": "Teknisyen",
+  "kind": "teknisyen",
+  "deletable": true,
+  "oncelikSirasi": 22,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17c945eb25cd8ba6afa4b"
+  },
+  "name": "Koruma ve Güvenlik Görevlisi",
+  "kind": "korumaveguvenlikgorevlisi",
+  "deletable": true,
+  "oncelikSirasi": 23,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17caf5eb25cd8ba6afa50"
+  },
+  "name": "Veznedar",
+  "kind": "veznedar",
+  "deletable": true,
+  "oncelikSirasi": 24,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17d7f5eb25cd8ba6afa7b"
+  },
+  "name": "Koruma ve Güvenlik Görevlisi (657/4B)",
+  "kind": "korumaveguvenlikgorevlisi(657/4b)",
+  "deletable": true,
+  "oncelikSirasi": 23,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17db55eb25cd8ba6afa80"
+  },
+  "name": "Aşçı",
+  "kind": "asci",
+  "deletable": true,
+  "oncelikSirasi": 25,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17dd65eb25cd8ba6afa89"
+  },
+  "name": "Aşçı (657/4B)",
+  "kind": "asci(657/4b)",
+  "deletable": true,
+  "oncelikSirasi": 25,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17dec5eb25cd8ba6afa8e"
+  },
+  "name": "Şoför",
+  "kind": "sofor",
+  "deletable": true,
+  "oncelikSirasi": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17dfa5eb25cd8ba6afa93"
+  },
+  "name": "Şoför (657/4B)",
+  "kind": "sofor(657/4b)",
+  "deletable": true,
+  "oncelikSirasi": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17e275eb25cd8ba6afa9c"
+  },
+  "name": "Kaloriferci",
+  "kind": "kaloriferci",
+  "deletable": true,
+  "oncelikSirasi": 27,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e17e595eb25cd8ba6afaa1"
+  },
+  "name": "Hizmetli (657/4B)",
+  "kind": "hizmetli(657/4b)",
+  "deletable": true,
+  "oncelikSirasi": 18,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42864de57c48c4b618090"
+  },
+  "name": "İdari İşler Müdürü",
+  "kind": "idarii̇slermudürü",
+  "deletable": true,
+  "oncelikSirasi": 14,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42f05e37d3f9adf2b3309"
+  },
+  "name": "Bekçi",
+  "kind": "bekci",
+  "deletable": true,
+  "oncelikSirasi": 27,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42f52e37d3f9adf2b330e"
+  },
+  "name": "Emanet Memuru",
+  "kind": "emanetmemuru",
+  "deletable": true,
+  "oncelikSirasi": 17,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42fa4e37d3f9adf2b3313"
+  },
+  "name": "İşaret Dili Tercümanı (657/4B)",
+  "kind": "isaretdilitercumani(657/4b)",
+  "deletable": true,
+  "oncelikSirasi": 28,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42fa8e37d3f9adf2b3318"
+  },
+  "name": "İşaret Dili Tercümanı",
+  "kind": "isaretdilitercumani",
+  "deletable": true,
+  "oncelikSirasi": 28,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e42ffce37d3f9adf2b331d"
+  },
+  "name": "Santral Memuru",
+  "kind": "santralmemuru",
+  "deletable": true,
+  "oncelikSirasi": 29,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e4305be37d3f9adf2b3322"
+  },
+  "name": "Tekniker",
+  "kind": "tekniker",
+  "deletable": true,
+  "oncelikSirasi": 22,
+  "__v": 0
+}]
