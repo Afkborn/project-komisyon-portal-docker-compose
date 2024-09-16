@@ -52,7 +52,7 @@
   "_id": {
     "$oid": "66e69f90f335532a1a2327b8"
   },
-  "name": "Zabit Katibi",
+  "name": "Zabıt Kâtibi",
   "kind": "zabitkatibi",
   "deletable": false,
   "oncelikSirasi": 15,
@@ -62,7 +62,7 @@
   "_id": {
     "$oid": "66e6a027849f24be896ecb43"
   },
-  "name": "Zabit Katibi (657/4B)",
+  "name": "Zabıt Kâtibi (657/4B)",
   "kind": "zabitkatibi",
   "deletable": false,
   "oncelikSirasi": 15,
@@ -326,5 +326,15 @@
   "kind": "tekniker",
   "deletable": true,
   "oncelikSirasi": 22,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e722025e8c10ca2f9dbe96"
+  },
+  "name": "Zabit Katibi",
+  "kind": "zabitkatibi",
+  "deletable": false,
+  "oncelikSirasi": 15,
   "__v": 0
 }]

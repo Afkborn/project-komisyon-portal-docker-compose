@@ -6,9 +6,9 @@
   "name": "Bilgehan",
   "surname": "Kalay",
   "password": "8f637ab4a3a17dc0f75bb38d4b3b7697928f0d23892e77b3c137428a5f041639",
-  "permission": "user",
   "createdDate": {
     "$date": "2024-09-12T12:25:20.282Z"
   },
-  "__v": 0
+  "__v": 0,
+  "role": "admin"
 }]
