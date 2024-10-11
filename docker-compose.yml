@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   frontend:
     build: ./project-komisyon-portal
@@ -31,13 +29,12 @@ services:
       - mongo-data:/data/db
 
   backup:
-    image: alpine
+    image: mongo:6.0  # veya uygun olan diğer mongo versiyonu
     volumes:
       - mongo-backup:/backup
-      - ./backup.sh:/app/backup.sh # Yedekleme script'ini mount ediyoruz
+      - ./backup.sh:/app/backup.sh
     entrypoint: >
-      /bin/sh -c "apk add --no-cache mongodb-tools && 
-      while true; do /app/backup.sh; sleep 3600; done"
+      /bin/sh -c "while true; do /app/backup.sh; sleep 3600; done"
     depends_on:
       - mongo
 
