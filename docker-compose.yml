@@ -17,6 +17,7 @@ services:
       PORT: 8080
       SALT_CODE: "ab276325"
       CACHE_ENABLED: true
+      CACHE_DURATION_IN_SECONDS: 60
     depends_on:
       - mongo
     volumes:
