@@ -19,7 +19,7 @@ services:
       REDIS_URL: redis://redis:6379  
     depends_on:
       - mongo
-      - redis  
+      - redis 
     volumes:
       - backend-logs:/app/logs
 
@@ -41,7 +41,7 @@ services:
   backup:
     image: mongo:6.0
     volumes:
-      - mongo-backup:/backup
+      - D:/komisyon-portal_mongo-backup:/backup 
       - ./backup.sh:/app/backup.sh
     entrypoint: >
       /bin/sh -c "while true; do /app/backup.sh; sleep 3600; done"
