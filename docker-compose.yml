@@ -2,11 +2,11 @@ services:
   frontend:
     build: ./project-komisyon-portal
     ports:
-      - "2626:2626" # 2626 kullanma sebebimiz adalet bakanlığı tarafından host makinede 80 portunun yasaklanmış olması
+      - "2626:2626"
     depends_on:
-      - backend # Frontend servisinin çalışabilmesi için backend servisinin çalışıyor olması gerekiyor
+      - backend
     environment:
-      REACT_APP_BACKEND_URL: http://backend:8080/api # Backend servisinin adresini belirtiyoruz
+      REACT_APP_BACKEND_URL: http://backend:8080/api
 
   backend:
     build: ./project-komisyon-portal-backend
@@ -16,9 +16,10 @@ services:
       MONGO_DB_CONNECTION: mongodb://mongo:27017/project-komisyon-portal
       PORT: 8080
       SALT_CODE: "ab276325"
-      CACHE_ENABLED: true
+      REDIS_URL: redis://redis:6379  
     depends_on:
       - mongo
+      - redis 
     volumes:
       - backend-logs:/app/logs
 
@@ -29,10 +30,18 @@ services:
     volumes:
       - mongo-data:/data/db
 
-  backup:
-    image: mongo:6.0  # veya uygun olan diğer mongo versiyonu
+  redis:
+    image: redis:latest
+    restart: always
+    ports:
+      - "6379:6379"
     volumes:
-      - mongo-backup:/backup
+      - redis-data:/data
+
+  backup:
+    image: mongo:6.0
+    volumes:
+      - D:/komisyon-portal_mongo-backup:/backup 
       - ./backup.sh:/app/backup.sh
     entrypoint: >
       /bin/sh -c "while true; do /app/backup.sh; sleep 3600; done"
@@ -43,3 +52,4 @@ volumes:
   mongo-data:
   backend-logs:
   mongo-backup:
+  redis-data:
